@@ -1,0 +1,72 @@
+*{
+    padding: 0px;
+    margin:  0px;
+}
+
+body {
+    background-color: #364f6b;
+    color: #eaf6f6; 
+    font-size: 20px; 
+}
+
+h1{
+    text-align: center;
+    font-size: 50px;
+    padding: 25px;
+    background-color: #f57170;
+}
+
+h3{
+    text-align: center;
+    font-size: 30px;
+    font-family: monospace;
+    padding: 25px;
+}
+
+.primera{
+    padding: 10px;
+    margin: 10px;
+    border: 2px solid #ff5722;
+    float: left;
+    width: 250px; 
+}
+
+.segunda{    
+    padding: 10px;
+    margin: 10px;
+    border: 2px solid #ff5722;
+    float: left;
+    width: 250px; 
+}
+
+.tercera{
+    padding: 10px;
+    margin: 10px;
+    border: 2px solid #ff5722;
+    float: left;
+    width: 250px;
+}
+
+.cuarta{
+    padding: 10px;
+    margin: 10px;
+    border: 2px solid #ff5722;
+    float: left;
+    width: 250px;
+}
+
+.quinta{
+    padding: 10px;
+    margin: 10px;
+    border: 2px solid #ff5722;
+    float: left;
+    width: 250px;
+}
+
+.sexta{
+    padding: 10px;
+    margin: 10px;
+    border: 2px solid #ff5722;
+    float: left;
+    width: 250px;
+}
